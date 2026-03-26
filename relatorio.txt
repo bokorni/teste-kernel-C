@@ -1,0 +1,4 @@
+Aluno: Lucas Bokorni Amaya
+PID do processo: 384
+Data: 25/03/2026
+Teste prático de interação com Kernel
